@@ -1,0 +1,9 @@
+[submodule "payload"]
+	path = payload
+	url = https://github.com/Liveton/payload
+[submodule "cli"]
+	path = cli
+	url = https://github.com/Liveton/cli
+[submodule "gui"]
+	path = gui
+	url = https://github.com/Liveton/gui
